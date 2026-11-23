@@ -35,16 +35,20 @@ I enjoy learning new technologies, improving my programming skills and turning i
 
 ##  Featured Projects
 
-### Personal Finance Tracker
-A Python desktop application designed to help users manage transactions, monthly budgets and financial information through an interactive dashboard.
+### Personal Finance Tracker (In Progress)
 
-**Technologies:** Python, Tkinter, SQLite, Matplotlib
+A Python desktop application designed to help users manage their personal finances through transaction tracking, monthly budget management and financial data visualisation.
 
-### SafeRoute Emergency Dispatch System
-An emergency dispatch system demonstrating the use of data structures and algorithms to manage incidents, prioritise emergencies and organise vehicle information.
+**Current features:**
+- Add, edit and delete transactions.
+- Manage monthly budgets.
+- View financial charts and reports.
+- Store financial information using SQLite.
+- Interactive dashboard using Tkinter.
 
-**Technologies:** Python, Data Structures and Algorithms
+**Technologies:** Python, Tkinter, SQLite, Matplotlib.
 
+**Development status:** This project is currently under active development. I am continuing to improve its functionality, user interface and overall user experience while implementing additional features.
 ### Student Grade Calculator
 A student grade management application that processes assessment marks and calculates student results.
 
