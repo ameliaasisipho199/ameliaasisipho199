@@ -1,4 +1,4 @@
-# Hi, I'm Asisipho! 👋
+# Hi, I'm Asisipho! 
 
 ### Developing Junior Software Engineer | Information Technology Student
 
